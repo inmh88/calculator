@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "table": "atlas_cloud",
+    "type": "collection",
+    "total": 12,
+    "Deleted": 1,
+    "Published": 12,
+    "Draft": 0,
+    "total_entries": 13
+  },
+  "data": [
+    {
+      "id": 2,
+      "status": 1,
+      "sort": 0,
+      "item": "PC Replacement",
+      "cost": "400",
+      "assumption": "Assumes mix of PCs\/laptops over depreciation period - £400 per PC",
+      "question": "Approximately, how many PCs do you need?",
+      "ui": "ui-type-1"
+    },
+    {
+      "id": 3,
+      "status": 1,
+      "sort": 1,
+      "item": "MS Office Licences",
+      "cost": "189",
+      "assumption": "New licences assumed £189 one off cost",
+      "question": "How many Microsoft Licences do you need?",
+      "ui": "ui-type-1"
+    },
+    {
+      "id": 4,
+      "status": 1,
+      "sort": 2,
+      "item": "VPN \/ Remote network kit",
+      "cost": "250",
+      "assumption": "Assumes single piece of hardware",
+      "question": "Will you require a VPN for your activity?",
+      "ui": "ui-type-2"
+    },
+    {
+      "id": 5,
+      "status": 1,
+      "sort": 3,
+      "item": "Primary server replacement",
+      "cost": "6000",
+      "assumption": "Assumes 1 mid range business server to be replaced over depreciation period",
+      "question": "How many servers do you need?",
+      "ui": "ui-type-1"
+    },
+    {
+      "id": 6,
+      "status": 1,
+      "sort": 4,
+      "item": "Primary storage replacement",
+      "cost": "500",
+      "assumption": "Assumes storage replacement",
+      "question": "Do you need a new storage system?",
+      "ui": "ui-type-2"
+    },
+    {
+      "id": 7,
+      "status": 1,
+      "sort": 5,
+      "item": "Storage Growth",
+      "cost": "50",
+      "assumption": "With each additional increase of storage",
+      "question": "How many times do you think you will need to grow your storage in 5 years?",
+      "ui": "ui-type-1"
+    },
+    {
+      "id": 8,
+      "status": 1,
+      "sort": 6,
+      "item": "Back up Replacement",
+      "cost": "50",
+      "assumption": "Assumes 1 per depreciation period, incl. cost of migration",
+      "question": "Do you need a back up server?",
+      "ui": "ui-type-2"
+    },
+    {
+      "id": 9,
+      "status": 1,
+      "sort": 7,
+      "item": "Backup consumables",
+      "cost": "50",
+      "assumption": "Additional cartridges per year",
+      "question": "How many cartridges do you think you need?",
+      "ui": "ui-type-1"
+    },
+    {
+      "id": 10,
+      "status": 1,
+      "sort": 8,
+      "item": "Op. System (Servers)",
+      "cost": "1000",
+      "assumption": "OS replacements for new hardware",
+      "question": "Will your new hardware need new operating systems?",
+      "ui": "ui-type-2"
+    },
+    {
+      "id": 11,
+      "status": 1,
+      "sort": 9,
+      "item": "LAN Hardware replacement",
+      "cost": "1000",
+      "assumption": "Replacement of network kit, once per depreciation period",
+      "question": "Do you need LAN Hardware?",
+      "ui": "ui-type-2"
+    },
+    {
+      "id": 12,
+      "status": 1,
+      "sort": 10,
+      "item": "WAN Hardware replacement",
+      "cost": "1000",
+      "assumption": "Replacement of network kit, once per depreciation period",
+      "question": "Do you need WAN Hardware replacement?",
+      "ui": "ui-type-2"
+    },
+    {
+      "id": 13,
+      "status": 1,
+      "sort": 11,
+      "item": "Facilities, Air, UPS",
+      "cost": "2000",
+      "assumption": "Replacement plus battery & service, once per depreciation period",
+      "question": "Do you need these?",
+      "ui": "ui-type-2"
+    }
+  ]
+}
